@@ -21,6 +21,7 @@ HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="50" width="120">
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-DjangoRestFramework-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />

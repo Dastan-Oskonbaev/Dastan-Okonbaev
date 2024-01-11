@@ -7,7 +7,7 @@ HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-DjangoRestFramework-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=SQLite3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=SQLite3&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Celery-37814A?style=flat&logo=Celery&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" />

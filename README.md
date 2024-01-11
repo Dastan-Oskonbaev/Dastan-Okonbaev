@@ -3,7 +3,7 @@ HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
 
 🛠️ Technology stack:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white height="50" width="120")
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Django RestFramework](https://img.shields.io/badge/-DjangoRestFramework-092E20?style=flat&logo=Django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)

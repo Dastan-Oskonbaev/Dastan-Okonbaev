@@ -6,6 +6,9 @@ HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-DjangoRestFramework-092E20?style=flat&logo=Django&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Pydantic-2D3748?style=flat&logo=pydantic&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat&logo=sqlalchemy&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=SQLite3&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white" height="30" />

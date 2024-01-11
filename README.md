@@ -1,15 +1,11 @@
 # Dastan-Oskonbaev
-HI ! I'm Dastan Oskonbaev, it's my profile
+HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
 
-## 🛠️ Технологический стек
+🛠️ Technology stack:
 
-- Python
-- Django
-- SQL
-- HTML5
-- CSS3
-- Bootstrap
-
-## 📊 Самые используемые языки
-
-!Top Langs
+!Python
+!Django
+!SQL
+!HTML5
+!CSS3
+!Bootstrap

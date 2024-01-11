@@ -1,2 +1,2 @@
-# Dastan-Okonbaev
-Dastan-Okonbaev
+# Dastan-Oskonbaev
+Dastan-Oskonbaev
